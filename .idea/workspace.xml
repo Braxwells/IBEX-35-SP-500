@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39eb22d9-6e4c-4f09-805c-6053e7a484fb" name="Changes" comment="">
+    <list default="true" id="39eb22d9-6e4c-4f09-805c-6053e7a484fb" name="Changes" comment="eda">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
     </list>
@@ -51,7 +51,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/bruno/PycharmProjects/ IBEX_35_S&amp;P_500&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/bruno/PycharmProjects/TransferVgg16&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -111,11 +111,28 @@
       <workItem from="1742256139463" duration="264000" />
       <workItem from="1742256416081" duration="735000" />
       <workItem from="1742292780422" duration="6457000" />
-      <workItem from="1742385577018" duration="1917000" />
+      <workItem from="1742385577018" duration="2978000" />
+      <workItem from="1742415882392" duration="710000" />
+      <workItem from="1742511113723" duration="908000" />
+      <workItem from="1742559252842" duration="400000" />
+      <workItem from="1742900887607" duration="5644000" />
     </task>
+    <task id="LOCAL-00001" summary="eda">
+      <option name="closed" value="true" />
+      <created>1742389562892</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742389562892</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="eda" />
+    <option name="LAST_COMMIT_MESSAGE" value="eda" />
   </component>
 </project>
